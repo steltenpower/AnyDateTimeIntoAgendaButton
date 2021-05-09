@@ -1,4 +1,5 @@
 # AnyDateTimeIntoAgendaButton
 
 browser extension to enrich every mention of date+time with a "add to your agenda"-button.
-THAT's ALL.
+Please tell me it exists and where I can find it.
+END
